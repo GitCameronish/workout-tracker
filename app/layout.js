@@ -1,4 +1,4 @@
-import './globals.css'
+import WorkoutTracker from '@/app/components/WorkoutTracker';
 
 export const metadata = {
   title: 'Workout Tracker',
