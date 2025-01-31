@@ -1,8 +1,8 @@
-{
+Copy{
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./app/*"]
+      "@/*": ["./*"]
     }
   }
 }
