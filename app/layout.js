@@ -1,3 +1,5 @@
+import WorkoutTracker from '@/components/WorkoutTracker';
+
 export const metadata = {
   title: 'Workout Tracker',
   description: 'Track your workouts and progress',
