@@ -1,6 +1,6 @@
 'use client';
 
-import WorkoutTracker from '@/components/WorkoutTracker';
+import WorkoutTracker from '@/app/components/WorkoutTracker';
 
 export default function Home() {
   return (
